@@ -73,9 +73,10 @@ section div {
 }
 
 .channel-list img {
-  border-radius: 50%;
-  width: 70px;
-  border: 1px solid #443e54;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+  border: 1px solid #f85c03;
 }
 
 header {
